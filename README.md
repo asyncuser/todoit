@@ -20,7 +20,7 @@ This is a simple todo list project to manage your time. It was created during EL
 
 ## Contribution guide
 
-[Guide]()
+[Guide](https://github.com/dkharch/todoit/blob/master/CONTRIBUTING.md)
 
 ### TODO
 

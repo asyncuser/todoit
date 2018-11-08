@@ -1,5 +1,5 @@
 # Contributing to toDOIT
-Contributing to this project is easy and as possible, whether it's:
+Contributing to this project is easy as possible, whether it's:
 
 - Reporting a bug
 - Discussing the current state of the code
@@ -29,7 +29,8 @@ Report a bug by [opening a new issue]()
 ## Installing
 To clone repository run:
 `$ git clone https://github.com/dkharch/todoit`
-After cloning please install all dependencies via npm:
+
+After that please install all dependencies via npm:
 `$ npm stall`
 
 ## Use a Consistent Coding Style

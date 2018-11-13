@@ -6,5 +6,5 @@ const $dayPosition = document.getElementById('date-day');
 const $monthPosition = document.getElementById('date-month');
 const date = new Date();
 $dayPosition.innerHTML = `${days[date.getDay()]}`;
-$monthPosition.innerHTML = `${months[date.getMonth()]} ${date.getDay()}, ${date.getFullYear()}`;
+$monthPosition.innerHTML = `${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`;
 

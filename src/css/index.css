@@ -4,7 +4,7 @@
   font-family: 'Ubuntu', sans-serif;
 }
 body{
-  background: linear-gradient(-45deg, #ea5f8e, #e25b88);
+  background-color: #ea5f8e;
 }
 .main{
   margin: 20px auto;
@@ -13,7 +13,7 @@ body{
   border-radius: 5px;
 }
 @media only screen and (max-width: 1024px){
-  body{
+  .body{
     background-color: #3d434b;
   }
   .main{
@@ -32,10 +32,13 @@ body{
   .footer{
     display: none;
   }
+  .input-field .fa-align-left{
+    display: none;
+  }
 }
-@media only screen and (min-width: 340px) {
-  .content {
-    padding: 0;
+@media only screen and (max-device-width: 1366px) {
+  .input-field .fa-align-left{
+    display: none;
   }
 }
 .calendar{
@@ -86,11 +89,17 @@ body{
   color: #dce0e3;
 }
 .date-month{
+  margin-bottom: 10px;
   color: #9a9fa7;
 }
 .date-button{
   text-decoration: none;
   color: #9a9fa7;
+}
+.date .fa-angle-left{
+  position: inherit;
+  left: 38%;
+  top: 19%;
 }
 .input{
   background-color: #343a40;
@@ -107,12 +116,6 @@ body{
 }
 .input:focus{
   box-shadow: 0 0 3px 2px #ea5f8e;
-}
-.fa-align-left{
-  position: fixed;
-  left: 28%;
-  top: 40%;
-  color: #9a9fa7;
 }
 .todo-container{
   margin: 0 auto;

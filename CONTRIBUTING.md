@@ -33,8 +33,12 @@ To clone repository run:
 `$ git clone https://github.com/dkharch/todoit`
 
 After that please install all dependencies via npm:
-`$ npm stall`
+`$ npm install`
 
 ## Use a Consistent Coding Style
 
-* Please run `npm run lint` for style unification
+* Please run `$ npm run lint` for style unification
+
+## Testing
+
+* To test project run `$ npm test`

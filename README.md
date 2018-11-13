@@ -8,6 +8,8 @@
 [DEMO](https://dkharch.github.io/todoit/)
 
 This is a simple todo list project to manage your time. It was created during ELEKS Front-Camp 2018. This project was created for practise as a front-end developer.  
+### Build status
+[![Build Status](https://travis-ci.org/dkharch/todoit.svg?branch=master)](https://travis-ci.org/dkharch/todoit)
 
 ### Tech stack
 

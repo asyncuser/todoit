@@ -6,7 +6,9 @@ Contributing to this project is easy as possible, whether it's:
 - Submitting a fix
 - Proposing new features
 - Becoming a maintainer
-
+## Awesome links
+ - [Pull request template](https://github.com/dkharch/todoit/blob/master/pull_request_template.md)
+ - [Issue template](https://github.com/dkharch/todoit/blob/master/issue_template.md) 
 ## All Code Changes Happen Through Pull Requests
 We actively welcome your pull requests:
 

@@ -1,8 +1,8 @@
 const CACHE_VERSION = 'v1';
 const RESOURCES = [
   '/todoit/',
-  'test.html',
-  '/todoit/src/css/test.css',
+  '/todoit/index.html',
+  '/todoit/src/css/index.css',
   '/todoit/src/main.js'
 ];
 

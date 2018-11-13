@@ -5,7 +5,6 @@
 }
 body{
   background: linear-gradient(-45deg, #ea5f8e, #e25b88);
-  animation: Gradiend 15s ease infinite;
 }
 .main{
   margin: 20px auto;
